@@ -1,7 +1,7 @@
 # Auslogics2015
 Test tasks from Auslogics
 
-Задание 2.
+*Задание 2.*  
 Дан массив:
 array (
 'a' => 1/3,
